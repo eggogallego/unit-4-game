@@ -1,0 +1,26 @@
+
+
+#header{
+    padding-bottom: 50px;
+    background-color: grey;
+}
+
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 99%;
+    text-align: center;
+    background-color: grey;
+
+}
+
+.buttons{
+    
+}
+
+#body{
+    background-image: url("https://wallpapertag.com/wallpaper/full/a/7/0/121042-crystal-wallpaper-2560x1440-for-ipad-2.jpg")
+
+}
